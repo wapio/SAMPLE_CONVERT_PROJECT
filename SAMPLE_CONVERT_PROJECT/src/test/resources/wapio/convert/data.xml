@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_31" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedHashMap">
+  <void method="put">
+   <string>0</string>
+   <object class="java.util.LinkedHashMap">
+    <void method="put">
+     <string>id</string>
+     <string>1</string>
+    </void>
+    <void method="put">
+     <string>first_name</string>
+     <string>Steven</string>
+    </void>
+    <void method="put">
+     <string>last_name</string>
+     <string>Thompson</string>
+    </void>
+    <void method="put">
+     <string>email</string>
+     <string>sthompson0@spotify.com</string>
+    </void>
+    <void method="put">
+     <string>gender</string>
+     <string>Male</string>
+    </void>
+    <void method="put">
+     <string>ip_address</string>
+     <string>129.167.217.82</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>1</string>
+   <object class="java.util.LinkedHashMap">
+    <void method="put">
+     <string>id</string>
+     <string>2</string>
+    </void>
+    <void method="put">
+     <string>first_name</string>
+     <string>Doris</string>
+    </void>
+    <void method="put">
+     <string>last_name</string>
+     <string>Daniels</string>
+    </void>
+    <void method="put">
+     <string>email</string>
+     <string>ddaniels1@usgs.gov</string>
+    </void>
+    <void method="put">
+     <string>gender</string>
+     <string>Female</string>
+    </void>
+    <void method="put">
+     <string>ip_address</string>
+     <string>34.152.122.66</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
